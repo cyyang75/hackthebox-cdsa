@@ -1,7 +1,7 @@
 # Hack The Box (HTB) SOC Analyst Path Labs
 
 <p align="center">
-<img src="https://i.imgur.com/N6iNPVE.png" width="50%" height="50%" alt="HTB CDSA Labs"/>
+<img src="./pic/my-cdsa.png" width="50%" height="50%" alt="HTB CDSA Labs"/>
 </p>
 
 ### I am currently working towards obtaining another certification in cybersecurity: the Hack The Box Certified Defensive Security Analyst (HTB CDSA). 
@@ -56,6 +56,6 @@
 
 ---
 
-![HTB CDSA Labs](https://i.imgur.com/PSGb87T.png)
+![HTB CDSA Labs](./pic/soc-analyst-path.png)
 
 ---
